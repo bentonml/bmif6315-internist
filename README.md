@@ -9,9 +9,9 @@ The goal of this project is to implement a basic clinical decision support syste
 
 ### Knowledge Base:
 
-1. Disease Prevalence (10 diseases; `data/disease_prevalence.txt`)
+1. Disease Prevalence (`data/disease_prevalence.txt`)
 
-2. Disease List (`data/diseases.txt`)
+2. Disease List (10 diseases; `data/diseases.txt`)
 
   ```
   TUBERCULOSIS CHRONIC PULMONARY
