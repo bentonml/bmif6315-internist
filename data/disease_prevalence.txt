@@ -1,1 +1,637 @@
-Disease Prevalence value explanations		"   1 = extremely rare ... 1 in 100,000 cases or less"		"   2 = rare  ............ 1 in 10,000 to 1 in 100,000 cases"		"   3 = not common ....... 1 in 100 to 1 in 10,000 cases"		   4 = common ........... 1 in 10 to 1 in 100 cases		   5 = very common ...... 5 in 10 to 1 in 10 cases				1	syphilitic cirrhosis alias hepar lobatum	4	hepatitis acute viral	2	cat_scratch_disease	2	hepatic leptospirosis	2	hepatitis acute toxic	4	alcoholic hepatitis	3	drug hypersensitivity hepatocellular reaction	3	hepatitis chronic aggressive	2	hepatocellular carcinoma	4	hepatic neoplasm secondary	2	hepatosplenic lymphoma	2	carcinoma of bile duct	3	carcinoma of head of pancreas	1	sclerosing cholangitis	3	choledocholithiasis	2	stricture of bile duct	4	hepatic congestion with centrilobular necrosis	2	hepatitis acute viral cholestatic type	2	androgen induced jaundice	2	estrogen induced jaundice	2	cholestasis of pregnancy	3	drug hypersensitivity cholestatic reaction	1	pericholangitis	3	ascending cholangitis	3	hodgkins_disease systemic	1	eosinophilic gastroenteritis mucosal form	4	sinusoidal or postsinusoidal portal hypertension	1	presinusoidal portal hypertension	2	cardiac cirrhosis	2	hepatic vein obstruction	2	hepatic vasculitis	1	hepatic artery aneurysm	1	celiac artery system portal vein fistula	2	hepatic hemangioma	1	portal vein obstruction	4	micronodal cirrhosis alias laennecs cirrhosis	3	macronodal cirrhosis alias postnecrotic cirrhosis	1	hepatic wilsons_disease	2	hemochromatosis	2	biliary cirrhosis primary	2	biliary cirrhosis secondary	1	congenital hepatic fibrosis	5	prerenal azotemia	1	portal hypertension idiopathic hepatic component	2	hepatic miliary tuberculosis	2	hepatic sarcoidosis	1	hepatic histoplasmosis	1	hepatic brucellosis	1	schistosomiasis chronic hepatic	2	pyogenic liver abscess	2	amebic liver abscess	3	gilberts syndrome	1	dubin johnson syndrome	2	hepatosplenic amyloidosis	4	fatty liver secondary	4	cholecystitis acute	4	hypoglycemia reactive	2	thyroiditis acute pyogenic	2	thyroiditis subacute	4	thyroiditis chronic lymphocytic hashimotos	1	thyroiditis chronic riedels	2	atypical mycobacterial infection disseminated	2	thyroid papillary carcinoma	1	thyroid medullary carcinoma	1	thyroid anaplastic carcinoma	4	hyperthyroidism alias graves_disease	2	thyrotoxic storm	5	anxiety neurosis	4	hypothyroidism primary	2	pituitary hypothyroidism	4	hyperparathyroidism primary	2	hypoparathyroidism	2	renal vasculitis	1	pseudohypoparathyroidism	1	pseudopseudohypoparathyroidism	5	osteoporosis	3	atheromatous embolism alias cholesterol embolism	3	pituitary cushings syndrome	2	cushings syndrome secondary to single or multiple adrenal adenomas	1	cushings syndrome secondary to adrenal carcinoma	3	cushings syndrome secondary to iatrogenic steroid excess	2	aldosteronism primary	3	subdural hematoma	2	thrombocythemia idiopathic	4	cholelithiasis	4	aldosteronism secondary	3	coccidioidomycosis primary pulmonary	2	coccidioidomycosis disseminated	3	porphyria cutanea tarda	2	addisons_disease secondary to idiopathic atrophy	1	addisons_disease secondary to adrenal destruction	1	adrenal apoplexy	2	adrenal insufficiency secondary to hypopituitarism	2	pheochromocytoma	3	meningioma	3	histoplasmosis primary pulmonary	4	thrombophlebitis acute of lower extremity unilateral or bilateral	3	glomerulonephritis acute	1	scurvy	3	toxemia of pregnancy	4	diabetic nephropathy	2	lupus nephritis	3	glomerulonephritis focal	3	gouty nephropathy chronic	2	renal amyloidosis	1	hereditary nephritis alias alports syndrome	3	nephrotic syndrome	1	glomerulonephritis latent	5	arteriolar nephrosclerosis benign alias essential hypertension	3	arteriolar nephrosclerosis malignant alias malignant hypertension	2	renal vein thrombosis	4	tubular necrosis acute	2	renal leptospirosis	4	pyelonephritis acute	2	pyelonephritis chronic	3	renal polycystic_disease alias polycystic_kidney_disease	1	medullary sponge kidney	1	medullary cystic kidney	3	mycoplasma pneumonia	5	pneumococcal pneumonia	2	staphylococcal pneumonia	2	klebsiella pneumonia	3	gram negative pneumonia non_klebsiella	1	syringomyelia	2	subacute combined degeneration	2	diabetes insipidus	1	histoplasmosis disseminated	2	amyloidosis systemic	2	sarcoidosis primary transient	1	lead encephalopathy	1	lead nephropathy chronic	1	carcinoma of gallbladder	1	lead poisoning	4	atelectasis	3	pulmonary infarction	1	bubonic plague	1	plague pneumonia	2	heat stroke	3	pulmonary abscess	2	spinal cord tumor lumbar	2	spinal cord tumor thoracic	2	spinal cord tumor cervical	3	tuberculosis chronic pulmonary	1	hookworm_disease	1	schistosomiasis systemic	1	echinococcal cysts of liver single or multiple	1	thoracic echinococcosis	2	phlegmasia cerulea dolens	3	sarcoidosis chronic pulmonary	1	botulism	5	bronchitis chronic simple	5	pulmonary emphysema	5	bronchial asthma	2	osteomalacia	2	trichinosis	1	pulmonary histiocytosis	3	carbon dioxide narcosis	3	hepatic encephalopathy	2	hypertensive encephalopathy	2	pulmonary interstitial fibrosis idiopathic	3	pulmonary interstitial fibrosis secondary diffuse	3	pulmonary embolism acute massive	4	pulmonary thromboembolism	2	pulmonary anthracosis	2	pulmonary hypertension primary	3	pulmonary hypertension secondary	4	pleural effusion transudative	4	pleural effusion exudative	2	pleural effusion chylous	2	hemothorax	3	empyema	3	pneumothorax	4	bronchogenic carcinoma squamous cell type	3	carcinoma of ovary	2	pulmonary malignant neoplasm secondary lymphogenous type	2	salt losing nephritis	4	renal failure chronic uremia	3	alveolar hypoventilation syndrome extrapulmonary	3	abdominal angina	2	superior mesenteric artery insufficiency acute	4	diverticulitis acute	4	appendicitis acute	4	crohns_disease of small intestine	3	ulcerative colitis	2	amebic colitis	3	malignant lymphoma non_hodgkins type	1	progressive systemic sclerosis involving kidneys	3	malabsorption	3	renal cell carcinoma	2	small bowel obstruction	2	large bowel obstruction	3	carcinoma of right colon	4	carcinoma of left colon	5	peptic ulcer	3	peptic ulcer with hemorrhage	3	peptic ulcer with penetration	2	gastroduodenal perforation	2	pyloric obstruction	4	functional dyspepsia	3	gastric carcinoma	2	gastritis giant hypertrophic alias menetriers_disease	3	arteriosclerotic_heart_disease	2	tricuspid regurgitation	3	peritonitis acute generalized	1	takayasus arteritis	4	pancreatitis acute	3	pancreatitis chronic	2	pancreatic pseudocyst	3	carcinoma of body or tail of pancreas	5	reflux esophagitis	3	achalasia	2	progressive systemic sclerosis involving esophagus	1	schatzki ring alias lower esophageal ring	4	esophageal spasm diffuse	3	carcinoma of esophagus	5	angina pectoris	4	crescendo angina	5	myocardial infarction acute	3	myocarditis diffuse	3	cardiomyopathy primary	3	cardiomyopathy secondary	2	epidural hematoma	3	pericarditis acute non_suppurative	3	pericardial effusion without tamponade	2	cardiac tamponade	2	constrictive pericarditis	4	endocarditis acute infective left heart	3	polymyalgia rheumatica	1	atrial myxoma right	3	thrombocytopenic purpura acute	3	thrombocytopenic purpura chronic	3	cranial arteritis	3	hypertensive_heart_disease	3	mitral stenosis	2	atrial myxoma left	3	aortic regurgitation chronic	4	aortic valvular stenosis	3	hypertrophic subaortic stenosis	5	cardiac failure left chronic congestive	4	left ventricular failure acute	4	cardiac failure right congestive	5	anemia of chronic_disease	5	iron deficiency anemia	2	aplastic anemia	3	pernicious anemia	2	anemia of decreased vitamin b12 absorption	4	anemia of folate deficiency	3	autoimmune hemolytic anemia involving warm reacting antibody	2	cryopathic autoimmune hemolytic anemia	1	paroxysmal nocturnal hemoglobinuria	2	lupus cerebritis	5	peripheral neuropathy	4	autonomic neuropathy	5	diabetes mellitus	2	sarcoidosis chronic systemic	2	wegeners granulomatosis	2	polyarteritis nodosa systemic	2	vasculitis nonspecific allergic hypersensitivity vasculitis	2	progressive systemic sclerosis	3	lupus erythematosus systemic	3	hypertensive retinopathy acute	4	hypertensive retinopathy chronic	3	arteriosclerotic retinopathy	4	diabetic retinopathy	2	cryoimmunoglobulinemic syndrome	3	pulmonary malignant neoplasm secondary hematogenous type	3	osteitis deformans alias pagets_disease of bone	2	hyperviscosity syndrome	3	erythema nodosum	2	tuberculosis disseminated	4	hypovolemic shock	3	endocarditis subacute infective left heart	2	polycythemia vera	2	sideroblastic anemia acquired	3	sickle cell anemia	3	myeloid metaplasia alias primary myelofibrosis	2	ventricular aneurysm left	2	mitral regurgitation rheumatic	2	ruptured mitral papillary muscle	2	ruptured mitral chordae tendineae	4	mitral valve prolapse	3	mitral regurgitation due to papillary muscle dysfunction	4	exudative ascites	4	transudative ascites	2	chylous ascites	2	tuberculous peritonitis	2	peritoneal neoplasm secondary	2	renal failure secondary to liver disease alias hepatorenal syndrome	4	rheumatoid arthritis	2	ankylosing spondylitis	2	enteropathic arthritis	2	reiters_disease	2	psoriatic arthritis	2	rheumatic arthritis acute	2	gonococcal arthritis	3	arthritis acute septic	5	osteoarthritis	4	gouty arthritis acute	2	gouty arthritis chronic	3	pseudogout	3	plasma cell myeloma	1	waldenstroms macroglobulinemia	4	diabetic ketoacidosis	4	cardiogenic shock acute	3	pyrogenic shock	2	gonococcemia acute	2	sydenhams chorea	3	glomerulonephritis advanced chronic	2	rheumatoid arteritis	3	leukemia chronic myelocytic	2	leukemia acute myeloblastic	1	leukemia acute monocytic or myelomonocytic	1	erythroleukemia	2	leukemia chronic myelocytic in myeloblastic crisis	2	leukemia acute lymphoblastic	3	leukemia chronic lymphocytic	1	tuberculous pericarditis	2	pericarditis acute suppurative	2	cardiac neoplasm secondary	3	subarachnoid hemorrhage	3	intracerebral hematoma	5	hemiplegia or hemiparesis	2	crohns_disease of colon	3	vertebral basilar artery insufficiency	4	nephrolithiasis	1	rhinocerebral mucormycosis phycomycosis	3	heat exhaustion	3	phobic neurosis	5	depression	2	myasthenia gravis	3	pneumocystis jirovecii pneumonia	3	renal tubular acidosis distal alias type 1 rta	2	polymyositis and_or dermatomyositis	3	endometriosis	2	renal tubular acidosis proximal alias fanconi syndrome	4	alzheimers_disease	2	ectopic pregnancy	3	hyperparathyroidism secondary	4	manic_depressive_disease manic phase	2	histoplasmosis chronic pulmonary	2	coccidioidomycosis chronic pulmonary	4	manic_depressive_disease depressed phase	2	bronchiectasis	2	spinal cord tumor caudal	3	paraplegia or paraparesis	2	sjogrens syndrome	3	pelvic_inflammatory_disease acute	2	diabetes insipidus nephrogenic	4	schizophrenia	1	tricuspid stenosis	2	pneumococcal meningitis	2	leptospiral meningitis	2	pulmonary cryptococcosis	4	infectious mononucleosis	2	toxoplasmosis acute lymphadenopathic	4	renal failure acute	2	tuberculous meningitis	2	meningococcal meningitis	2	leptospirosis systemic	3	cryptococcal meningitis	2	renal thrombotic thrombocytopenic purpura TTP alias hemolytic uremic syndrome	1	cerebral thrombotic thrombocytopenic purpura alias TTP cerebral component	2	thrombotic thrombocytopenic purpura	2	porphyria acute intermittent	3	disseminated intravascular coagulation	2	gastric lymphoma	2	cutaneous atypical mycobacterial infection	2	pulmonary atypical mycobacterial infection	1	insulinoma	2	lymphoma of colon	1	small intestinal lymphoma	2	hypoglycemia factitious	2	alcohol induced hypoglycemia	2	pulmonary lymphoma	1	amebic meningoencephalitis	2	mallory weiss syndrome	2	rheumatic carditis acute	1	glucagonoma	1	pancreatic cholera	2	meningeal neoplasm secondary	4	pulmonary legionellosis	2	renal infarction	3	hydronephrosis	2	leukemia hairy cell	3	atrial septal defect	2	splenic infarction	3	epilepsy idiopathic psychomotor	1	ventricular septal defect large	5	obesity	2	ventricular septal defect small	1	patent ductus arteriosus	1	patent ductus arteriosus with right to left shunt	2	tularemia	4	epilepsy idiopathic grand mal	3	anorexia nervosa	1	fatty liver of pregnancy acute	3	epilepsy idiopathic petit mal	3	multiple sclerosis	3	epilepsy posttraumatic	3	ectopic acth syndrome	4	aspiration pneumonia	2	amyotrophic lateral sclerosis alias progressive muscular atrophy	2	hemophilia a	1	hemophilic arthritis	2	christmas_disease alias hemophilia b	2	eosinophilic pneumonia acute loeffler	2	eosinophilic pneumonia chronic	2	von_willebrands_disease	2	sellar tumor with suprasellar extension	5	cerebral artery thrombosis or dissection with encephalomalacia	2	tuberculous pleurisy	2	renal tuberculosis	1	familial mediterranean fever	1	eosinophilic gastroenteritis muscular form	1	eosinophilic gastroenteritis serosal form	2	hypokalemic nephropathy	2	pulmonary candidiasis	3	esophageal candidiasis	4	cerebral embolism	1	polycystic_disease liver	2	aortic dissection	5	carpal tunnel syndrome	3	lactose intolerance	2	acromegaly	1	lepromatous leprosy	1	tuberculoid leprosy	5	pseudomembranous colitis alias clostridium difficile cdif enterocolitis	1	acromegalic arthropathy	2	narcolepsy	2	hereditary hemorrhagic telangiectasia	2	pulmonary alveolar proteinosis	2	aortic regurgitation acute	1	pleural malignant mesothelioma	5	migraine	2	pulmonary asbestosis	5	paralysis agitans parkinsonism	2	renal artery stenosis	2	brucellosis	2	thyrotoxic_heart_disease	3	rocky mountain spotted fever	2	toxoplasmosis disseminated	1	tuberculous lymphadenitis	1	paroxysmal nocturnal hemoglobinuria involving kidneys	2	gastrointestinal amyloidosis	2	cholangiocarcinoma intrahepatic non_hilar	2	spongiform encephalopathy subacute	3	celiac sprue	4	abdominal aortic aneurysm uncomplicated	1	lymphomatoid granulomatosis	2	pulmonary nocardiosis	1	weber_christian_disease	3	glomerulonephritis rapidly progressive	2	myelophthisic anemia	2	henoch schonlein syndrome alias henoch-schonlein purpura	4	campylobacter enteritis	2	iga nephropathy	3	angina variant prinzmetal	2	pulmonary aspergillosis mycetoma type	1	blastomycosis disseminated	2	blastomycosis chronic pulmonary	2	cystic fibrosis adult form	2	giant cell arteritis non_cranial	2	hypertrophic osteoarthropathy	2	pulmonary aspergillosis invasive type	1	aspergillosis disseminated	1	tetanus	1	sphingomyelin lipoidosis adult form	4	herpes zoster	2	staphylococcal scarlet fever alias toxic shock syndrome	2	cerebroside lipoidosis adult form alias gauchers_disease	2	analgesic nephropathy	3	subphrenic abscess	2	feltys syndrome	2	streptococcus pyogenes pneumonia	3	endocarditis infective right heart	1	wilsons_disease of central nervous system	1	angioimmunoblastic lymphadenopathy	1	periportal sinusoidal dilatation	2	hepatocellular adenoma single or multiple	1	hepatic focal nodal hyperplasia	1	peliosis hepatis	1	ceramide trihexoside lipoidosis alias fabrys_disease	1	pulmonic valvular stenosis	2	malaria	1	cerebral malaria	1	rickettsial meningoencephalitis	2	legionella meningoencephalitis	3	somatization disorder hysteria alias conversion disorder	2	toxoplasma meningoencephalitis	2	gastrointestinal sarcoidosis	1	renal interstitial sarcoidosis	5	cystitis	2	raynauds_disease	3	immune deficiency syndrome acquired alias hiv aids	1	meningococcemia acute	1	meningococcal arthritis	1	superior mesenteric vein thrombosis	3	nephritis acute interstitial allergic	1	cervicofacial actinomycosis	2	thoracic actinomycosis	1	abdominal actinomycosis	1	pelvic actinomycosis	3	cytomegalovirus mononucleosis	2	angiodysplasia of right colon	3	nephritis interstitial non_allergic	3	membranous glomerulopathy alias membranous glomerulonephritis	2	cytomegalovirus infection disseminated	2	cytomegalovirus pneumonia	2	brain abscess	2	hepatic nodular regenerative hyperplasia diffuse	5	pulmonary congestion chronic cardiogenic	2	transverse myelitis acute or subacute	3	syphilis secondary	1	syphilitic meningitis acute	2	whipples_disease	1	whipples_disease cns component	1	ileocecal tuberculosis	4	pulmonary congestion acute cardiogenic	1	huntington_disease	2	catatonia	2	listeria meningitis	4	carcinoma of breast	1	relapsing polychondritis	3	aids meningoencephalitis	3	encephalitis acute viral	4	carcinoma of prostate	2	carcinoma of endometrium	3	sinusitis acute	1	hemobilia	2	prolactinoma	1	eosinophilic fasciitis	1	craniopharyngioma	2	psittacosis	1	tetralogy of fallot	3	beriberi_heart_disease alias alcohol related cardiomyopathy	2	superior vena cava obstruction	1	lymphomatoid granulomatosis cns component	1	trichinella meningoencephalitis	1	histoplasma meningitis	4	aseptic meningitis	1	sarcoidosis chronic systemic cns component	1	cryptococcosis disseminated	1	plague meningitis	1	cat scratch meningoencephalitis	2	schizocytic hemolytic anemia	3	intraperitoneal abscess right lower quadrant	1	tularemia meningitis	1	goodpasture syndrome renal component	4	lyme_disease	3	lyme meningoencephalitis	3	lyme arthritis	1	goodpasture syndrome pulmonary component	5	influenza	1	typhoid fever	2	aortic occlusion distal chronic	3	influenza pneumonia	1	bronchiolar-alveolar cell carcinoma	1	bronchial carcinoid neoplasm	2	carcinoid syndrome	3	cerebral neoplasm single frontal	3	cerebral neoplasm single occipital	3	cerebral neoplasm single parietal	3	cerebral neoplasm single temporal	2	cutaneous t-cell lymphoma	3	granulocytopenia idiopathic or chemical induced	3	guillain-barre syndrome	3	obsessive-compulsive neurosis	2	protein-losing enteropathy	1	pulmonary veno_occlusive_disease	1	zollinger-ellison syndrome	3	bronchial adenocarcinoma	1	fat embolism	3	intestinal giardiasis	3	pulmonary silicosis chronic	2	testicular seminoma	4	brain neoplasm secondary multiple	2	tuberculous spondylitis	2	retroperitoneal hemorrhage	2	cerebral lymphoma primary	2	shigellosis	4	bone neoplasm secondary	2	normal pressure hydrocephalus	2	herpes simplex encephalitis	3	vertebral osteomyelitis non_tuberculous	3	menieres_disease	2	staphylococcus aureus meningitis	2	strongyloidiasis intestinal	1	arsenic poisoning chronic	2	thyroid follicular carcinoma	1	q fever acute	1	cardiac sarcoma primary	3	glaucoma acute angle closure	2	perinephric abscess	1	jejunal vascular anomaly with hemorrhage	1	cutaneous anthrax	3	theophylline toxicity	1	anisakiasis	1	ascariasis intestinal	1	tropical sprue	2	granuloma inguinale alias donovanosis	2	euthyroid sick syndrome alias low t3 and low t4 syndrome	2	varicella pneumonia	2	familial periodic paralysis hypokalemic form	1	pulmonary amyloidosis tracheobronchial and_or nodular parenchymal	1	bartters syndrome	3	salmonella enterocolitis non_typhi	2	colorado tick fever	1	friedreichs ataxia	1	sporotrichosis lymphocutaneous	1	sporotrichosis arthritis and tenosynovitis	1	sporotrichosis systemic	1	tabes dorsalis	4	staphylococcal gastroenteritis alias staphylococcal food poisoning	4	pulmonary small cell carcinoma alias oat cell carcinoma lung	2	malignant melanoma non_ocular	2	clostridial myonecrosis alias gas gangrene	4	arteriosclerosis involving lower extremities	2	spinal epidural abscess non_tuberculous	1	chondrosarcoma skeletal of trunk and_or extremities	3	carcinoma of cervix invasive	2	niacin deficiency alias pellagra	4	dental abscess periapical or periodontal	1	streptobacillus moniliformis infection rat bite fever	1	spirillum minus rat bite fever	3	antidiuretic hormone inappropriate secretion syndrome alias siadh	2	pseudotumor cerebri alias benign intracranial hypertension	1	meckels diverticulum symptomatic	1	hypervitaminosis d alias vitamin d intoxication	1	mercury poisoning other than acute inhalation	2	neurogenic osteoarthropathy alias charcot_joint_disease	51222	Brittany Powell RN/Randolh A Miller MD__11/28/2017	viral upper respiratory infection alias common cold
+"Disease Prevalence value explanations
+"   1 = extremely rare ... 1 in 100,000 cases or less
+"   2 = rare  ............ 1 in 10,000 to 1 in 100,000 cases
+"   3 = not common ....... 1 in 100 to 1 in 10,000 cases
+"   4 = common ........... 1 in 10 to 1 in 100 cases
+"   5 = very common ...... 5 in 10 to 1 in 10 cases
+1	syphilitic cirrhosis alias hepar lobatum
+4	hepatitis acute viral
+2	cat_scratch_disease
+2	hepatic leptospirosis
+2	hepatitis acute toxic
+4	alcoholic hepatitis
+3	drug hypersensitivity hepatocellular reaction
+3	hepatitis chronic aggressive
+2	hepatocellular carcinoma
+4	hepatic neoplasm secondary
+2	hepatosplenic lymphoma
+2	carcinoma of bile duct
+3	carcinoma of head of pancreas
+1	sclerosing cholangitis
+3	choledocholithiasis
+2	stricture of bile duct
+4	hepatic congestion with centrilobular necrosis
+2	hepatitis acute viral cholestatic type
+2	androgen induced jaundice
+2	estrogen induced jaundice
+2	cholestasis of pregnancy
+3	drug hypersensitivity cholestatic reaction
+1	pericholangitis
+3	ascending cholangitis
+3	hodgkins_disease systemic
+1	eosinophilic gastroenteritis mucosal form
+4	sinusoidal or postsinusoidal portal hypertension
+1	presinusoidal portal hypertension
+2	cardiac cirrhosis
+2	hepatic vein obstruction
+2	hepatic vasculitis
+1	hepatic artery aneurysm
+1	celiac artery system portal vein fistula
+2	hepatic hemangioma
+1	portal vein obstruction
+4	micronodal cirrhosis alias laennecs cirrhosis
+3	macronodal cirrhosis alias postnecrotic cirrhosis
+1	hepatic wilsons_disease
+2	hemochromatosis
+2	biliary cirrhosis primary
+2	biliary cirrhosis secondary
+1	congenital hepatic fibrosis
+5	prerenal azotemia
+1	portal hypertension idiopathic hepatic component
+2	hepatic miliary tuberculosis
+2	hepatic sarcoidosis
+1	hepatic histoplasmosis
+1	hepatic brucellosis
+1	schistosomiasis chronic hepatic
+2	pyogenic liver abscess
+2	amebic liver abscess
+3	gilberts syndrome
+1	dubin johnson syndrome
+2	hepatosplenic amyloidosis
+4	fatty liver secondary
+4	cholecystitis acute
+4	hypoglycemia reactive
+2	thyroiditis acute pyogenic
+2	thyroiditis subacute
+4	thyroiditis chronic lymphocytic hashimotos
+1	thyroiditis chronic riedels
+2	atypical mycobacterial infection disseminated
+2	thyroid papillary carcinoma
+1	thyroid medullary carcinoma
+1	thyroid anaplastic carcinoma
+4	hyperthyroidism alias graves_disease
+2	thyrotoxic storm
+5	anxiety neurosis
+4	hypothyroidism primary
+2	pituitary hypothyroidism
+4	hyperparathyroidism primary
+2	hypoparathyroidism
+2	renal vasculitis
+1	pseudohypoparathyroidism
+1	pseudopseudohypoparathyroidism
+5	osteoporosis
+3	atheromatous embolism alias cholesterol embolism
+3	pituitary cushings syndrome
+2	cushings syndrome secondary to single or multiple adrenal adenomas
+1	cushings syndrome secondary to adrenal carcinoma
+3	cushings syndrome secondary to iatrogenic steroid excess
+2	aldosteronism primary
+3	subdural hematoma
+2	thrombocythemia idiopathic
+4	cholelithiasis
+4	aldosteronism secondary
+3	coccidioidomycosis primary pulmonary
+2	coccidioidomycosis disseminated
+3	porphyria cutanea tarda
+2	addisons_disease secondary to idiopathic atrophy
+1	addisons_disease secondary to adrenal destruction
+1	adrenal apoplexy
+2	adrenal insufficiency secondary to hypopituitarism
+2	pheochromocytoma
+3	meningioma
+3	histoplasmosis primary pulmonary
+4	thrombophlebitis acute of lower extremity unilateral or bilateral
+3	glomerulonephritis acute
+1	scurvy
+3	toxemia of pregnancy
+4	diabetic nephropathy
+2	lupus nephritis
+3	glomerulonephritis focal
+3	gouty nephropathy chronic
+2	renal amyloidosis
+1	hereditary nephritis alias alports syndrome
+3	nephrotic syndrome
+1	glomerulonephritis latent
+5	arteriolar nephrosclerosis benign alias essential hypertension
+3	arteriolar nephrosclerosis malignant alias malignant hypertension
+2	renal vein thrombosis
+4	tubular necrosis acute
+2	renal leptospirosis
+4	pyelonephritis acute
+2	pyelonephritis chronic
+3	renal polycystic_disease alias polycystic_kidney_disease
+1	medullary sponge kidney
+1	medullary cystic kidney
+3	mycoplasma pneumonia
+5	pneumococcal pneumonia
+2	staphylococcal pneumonia
+2	klebsiella pneumonia
+3	gram negative pneumonia non_klebsiella
+1	syringomyelia
+2	subacute combined degeneration
+2	diabetes insipidus
+1	histoplasmosis disseminated
+2	amyloidosis systemic
+2	sarcoidosis primary transient
+1	lead encephalopathy
+1	lead nephropathy chronic
+1	carcinoma of gallbladder
+1	lead poisoning
+4	atelectasis
+3	pulmonary infarction
+1	bubonic plague
+1	plague pneumonia
+2	heat stroke
+3	pulmonary abscess
+2	spinal cord tumor lumbar
+2	spinal cord tumor thoracic
+2	spinal cord tumor cervical
+3	tuberculosis chronic pulmonary
+1	hookworm_disease
+1	schistosomiasis systemic
+1	echinococcal cysts of liver single or multiple
+1	thoracic echinococcosis
+2	phlegmasia cerulea dolens
+3	sarcoidosis chronic pulmonary
+1	botulism
+5	bronchitis chronic simple
+5	pulmonary emphysema
+5	bronchial asthma
+2	osteomalacia
+2	trichinosis
+1	pulmonary histiocytosis
+3	carbon dioxide narcosis
+3	hepatic encephalopathy
+2	hypertensive encephalopathy
+2	pulmonary interstitial fibrosis idiopathic
+3	pulmonary interstitial fibrosis secondary diffuse
+3	pulmonary embolism acute massive
+4	pulmonary thromboembolism
+2	pulmonary anthracosis
+2	pulmonary hypertension primary
+3	pulmonary hypertension secondary
+4	pleural effusion transudative
+4	pleural effusion exudative
+2	pleural effusion chylous
+2	hemothorax
+3	empyema
+3	pneumothorax
+4	bronchogenic carcinoma squamous cell type
+3	carcinoma of ovary
+2	pulmonary malignant neoplasm secondary lymphogenous type
+2	salt losing nephritis
+4	renal failure chronic uremia
+3	alveolar hypoventilation syndrome extrapulmonary
+3	abdominal angina
+2	superior mesenteric artery insufficiency acute
+4	diverticulitis acute
+4	appendicitis acute
+4	crohns_disease of small intestine
+3	ulcerative colitis
+2	amebic colitis
+3	malignant lymphoma non_hodgkins type
+1	progressive systemic sclerosis involving kidneys
+3	malabsorption
+3	renal cell carcinoma
+2	small bowel obstruction
+2	large bowel obstruction
+3	carcinoma of right colon
+4	carcinoma of left colon
+5	peptic ulcer
+3	peptic ulcer with hemorrhage
+3	peptic ulcer with penetration
+2	gastroduodenal perforation
+2	pyloric obstruction
+4	functional dyspepsia
+3	gastric carcinoma
+2	gastritis giant hypertrophic alias menetriers_disease
+3	arteriosclerotic_heart_disease
+2	tricuspid regurgitation
+3	peritonitis acute generalized
+1	takayasus arteritis
+4	pancreatitis acute
+3	pancreatitis chronic
+2	pancreatic pseudocyst
+3	carcinoma of body or tail of pancreas
+5	reflux esophagitis
+3	achalasia
+2	progressive systemic sclerosis involving esophagus
+1	schatzki ring alias lower esophageal ring
+4	esophageal spasm diffuse
+3	carcinoma of esophagus
+5	angina pectoris
+4	crescendo angina
+5	myocardial infarction acute
+3	myocarditis diffuse
+3	cardiomyopathy primary
+3	cardiomyopathy secondary
+2	epidural hematoma
+3	pericarditis acute non_suppurative
+3	pericardial effusion without tamponade
+2	cardiac tamponade
+2	constrictive pericarditis
+4	endocarditis acute infective left heart
+3	polymyalgia rheumatica
+1	atrial myxoma right
+3	thrombocytopenic purpura acute
+3	thrombocytopenic purpura chronic
+3	cranial arteritis
+3	hypertensive_heart_disease
+3	mitral stenosis
+2	atrial myxoma left
+3	aortic regurgitation chronic
+4	aortic valvular stenosis
+3	hypertrophic subaortic stenosis
+5	cardiac failure left chronic congestive
+4	left ventricular failure acute
+4	cardiac failure right congestive
+5	anemia of chronic_disease
+5	iron deficiency anemia
+2	aplastic anemia
+3	pernicious anemia
+2	anemia of decreased vitamin b12 absorption
+4	anemia of folate deficiency
+3	autoimmune hemolytic anemia involving warm reacting antibody
+2	cryopathic autoimmune hemolytic anemia
+1	paroxysmal nocturnal hemoglobinuria
+2	lupus cerebritis
+5	peripheral neuropathy
+4	autonomic neuropathy
+5	diabetes mellitus
+2	sarcoidosis chronic systemic
+2	wegeners granulomatosis
+2	polyarteritis nodosa systemic
+2	vasculitis nonspecific allergic hypersensitivity vasculitis
+2	progressive systemic sclerosis
+3	lupus erythematosus systemic
+3	hypertensive retinopathy acute
+4	hypertensive retinopathy chronic
+3	arteriosclerotic retinopathy
+4	diabetic retinopathy
+2	cryoimmunoglobulinemic syndrome
+3	pulmonary malignant neoplasm secondary hematogenous type
+3	osteitis deformans alias pagets_disease of bone
+2	hyperviscosity syndrome
+3	erythema nodosum
+2	tuberculosis disseminated
+4	hypovolemic shock
+3	endocarditis subacute infective left heart
+2	polycythemia vera
+2	sideroblastic anemia acquired
+3	sickle cell anemia
+3	myeloid metaplasia alias primary myelofibrosis
+2	ventricular aneurysm left
+2	mitral regurgitation rheumatic
+2	ruptured mitral papillary muscle
+2	ruptured mitral chordae tendineae
+4	mitral valve prolapse
+3	mitral regurgitation due to papillary muscle dysfunction
+4	exudative ascites
+4	transudative ascites
+2	chylous ascites
+2	tuberculous peritonitis
+2	peritoneal neoplasm secondary
+2	renal failure secondary to liver disease alias hepatorenal syndrome
+4	rheumatoid arthritis
+2	ankylosing spondylitis
+2	enteropathic arthritis
+2	reiters_disease
+2	psoriatic arthritis
+2	rheumatic arthritis acute
+2	gonococcal arthritis
+3	arthritis acute septic
+5	osteoarthritis
+4	gouty arthritis acute
+2	gouty arthritis chronic
+3	pseudogout
+3	plasma cell myeloma
+1	waldenstroms macroglobulinemia
+4	diabetic ketoacidosis
+4	cardiogenic shock acute
+3	pyrogenic shock
+2	gonococcemia acute
+2	sydenhams chorea
+3	glomerulonephritis advanced chronic
+2	rheumatoid arteritis
+3	leukemia chronic myelocytic
+2	leukemia acute myeloblastic
+1	leukemia acute monocytic or myelomonocytic
+1	erythroleukemia
+2	leukemia chronic myelocytic in myeloblastic crisis
+2	leukemia acute lymphoblastic
+3	leukemia chronic lymphocytic
+1	tuberculous pericarditis
+2	pericarditis acute suppurative
+2	cardiac neoplasm secondary
+3	subarachnoid hemorrhage
+3	intracerebral hematoma
+5	hemiplegia or hemiparesis
+2	crohns_disease of colon
+3	vertebral basilar artery insufficiency
+4	nephrolithiasis
+1	rhinocerebral mucormycosis phycomycosis
+3	heat exhaustion
+3	phobic neurosis
+5	depression
+2	myasthenia gravis
+3	pneumocystis jirovecii pneumonia
+3	renal tubular acidosis distal alias type 1 rta
+2	polymyositis and_or dermatomyositis
+3	endometriosis
+2	renal tubular acidosis proximal alias fanconi syndrome
+4	alzheimers_disease
+2	ectopic pregnancy
+3	hyperparathyroidism secondary
+4	manic_depressive_disease manic phase
+2	histoplasmosis chronic pulmonary
+2	coccidioidomycosis chronic pulmonary
+4	manic_depressive_disease depressed phase
+2	bronchiectasis
+2	spinal cord tumor caudal
+3	paraplegia or paraparesis
+2	sjogrens syndrome
+3	pelvic_inflammatory_disease acute
+2	diabetes insipidus nephrogenic
+4	schizophrenia
+1	tricuspid stenosis
+2	pneumococcal meningitis
+2	leptospiral meningitis
+2	pulmonary cryptococcosis
+4	infectious mononucleosis
+2	toxoplasmosis acute lymphadenopathic
+4	renal failure acute
+2	tuberculous meningitis
+2	meningococcal meningitis
+2	leptospirosis systemic
+3	cryptococcal meningitis
+2	renal thrombotic thrombocytopenic purpura TTP alias hemolytic uremic syndrome
+1	cerebral thrombotic thrombocytopenic purpura alias TTP cerebral component
+2	thrombotic thrombocytopenic purpura
+2	porphyria acute intermittent
+3	disseminated intravascular coagulation
+2	gastric lymphoma
+2	cutaneous atypical mycobacterial infection
+2	pulmonary atypical mycobacterial infection
+1	insulinoma
+2	lymphoma of colon
+1	small intestinal lymphoma
+2	hypoglycemia factitious
+2	alcohol induced hypoglycemia
+2	pulmonary lymphoma
+1	amebic meningoencephalitis
+2	mallory weiss syndrome
+2	rheumatic carditis acute
+1	glucagonoma
+1	pancreatic cholera
+2	meningeal neoplasm secondary
+4	pulmonary legionellosis
+2	renal infarction
+3	hydronephrosis
+2	leukemia hairy cell
+3	atrial septal defect
+2	splenic infarction
+3	epilepsy idiopathic psychomotor
+1	ventricular septal defect large
+5	obesity
+2	ventricular septal defect small
+1	patent ductus arteriosus
+1	patent ductus arteriosus with right to left shunt
+2	tularemia
+4	epilepsy idiopathic grand mal
+3	anorexia nervosa
+1	fatty liver of pregnancy acute
+3	epilepsy idiopathic petit mal
+3	multiple sclerosis
+3	epilepsy posttraumatic
+3	ectopic acth syndrome
+4	aspiration pneumonia
+2	amyotrophic lateral sclerosis alias progressive muscular atrophy
+2	hemophilia a
+1	hemophilic arthritis
+2	christmas_disease alias hemophilia b
+2	eosinophilic pneumonia acute loeffler
+2	eosinophilic pneumonia chronic
+2	von_willebrands_disease
+2	sellar tumor with suprasellar extension
+5	cerebral artery thrombosis or dissection with encephalomalacia
+2	tuberculous pleurisy
+2	renal tuberculosis
+1	familial mediterranean fever
+1	eosinophilic gastroenteritis muscular form
+1	eosinophilic gastroenteritis serosal form
+2	hypokalemic nephropathy
+2	pulmonary candidiasis
+3	esophageal candidiasis
+4	cerebral embolism
+1	polycystic_disease liver
+2	aortic dissection
+5	carpal tunnel syndrome
+3	lactose intolerance
+2	acromegaly
+1	lepromatous leprosy
+1	tuberculoid leprosy
+5	pseudomembranous colitis alias clostridium difficile cdif enterocolitis
+1	acromegalic arthropathy
+2	narcolepsy
+2	hereditary hemorrhagic telangiectasia
+2	pulmonary alveolar proteinosis
+2	aortic regurgitation acute
+1	pleural malignant mesothelioma
+5	migraine
+2	pulmonary asbestosis
+5	paralysis agitans parkinsonism
+2	renal artery stenosis
+2	brucellosis
+2	thyrotoxic_heart_disease
+3	rocky mountain spotted fever
+2	toxoplasmosis disseminated
+1	tuberculous lymphadenitis
+1	paroxysmal nocturnal hemoglobinuria involving kidneys
+2	gastrointestinal amyloidosis
+2	cholangiocarcinoma intrahepatic non_hilar
+2	spongiform encephalopathy subacute
+3	celiac sprue
+4	abdominal aortic aneurysm uncomplicated
+1	lymphomatoid granulomatosis
+2	pulmonary nocardiosis
+1	weber_christian_disease
+3	glomerulonephritis rapidly progressive
+2	myelophthisic anemia
+2	henoch schonlein syndrome alias henoch-schonlein purpura
+4	campylobacter enteritis
+2	iga nephropathy
+3	angina variant prinzmetal
+2	pulmonary aspergillosis mycetoma type
+1	blastomycosis disseminated
+2	blastomycosis chronic pulmonary
+2	cystic fibrosis adult form
+2	giant cell arteritis non_cranial
+2	hypertrophic osteoarthropathy
+2	pulmonary aspergillosis invasive type
+1	aspergillosis disseminated
+1	tetanus
+1	sphingomyelin lipoidosis adult form
+4	herpes zoster
+2	staphylococcal scarlet fever alias toxic shock syndrome
+2	cerebroside lipoidosis adult form alias gauchers_disease
+2	analgesic nephropathy
+3	subphrenic abscess
+2	feltys syndrome
+2	streptococcus pyogenes pneumonia
+3	endocarditis infective right heart
+1	wilsons_disease of central nervous system
+1	angioimmunoblastic lymphadenopathy
+1	periportal sinusoidal dilatation
+2	hepatocellular adenoma single or multiple
+1	hepatic focal nodal hyperplasia
+1	peliosis hepatis
+1	ceramide trihexoside lipoidosis alias fabrys_disease
+1	pulmonic valvular stenosis
+2	malaria
+1	cerebral malaria
+1	rickettsial meningoencephalitis
+2	legionella meningoencephalitis
+3	somatization disorder hysteria alias conversion disorder
+2	toxoplasma meningoencephalitis
+2	gastrointestinal sarcoidosis
+1	renal interstitial sarcoidosis
+5	cystitis
+2	raynauds_disease
+3	immune deficiency syndrome acquired alias hiv aids
+1	meningococcemia acute
+1	meningococcal arthritis
+1	superior mesenteric vein thrombosis
+3	nephritis acute interstitial allergic
+1	cervicofacial actinomycosis
+2	thoracic actinomycosis
+1	abdominal actinomycosis
+1	pelvic actinomycosis
+3	cytomegalovirus mononucleosis
+2	angiodysplasia of right colon
+3	nephritis interstitial non_allergic
+3	membranous glomerulopathy alias membranous glomerulonephritis
+2	cytomegalovirus infection disseminated
+2	cytomegalovirus pneumonia
+2	brain abscess
+2	hepatic nodular regenerative hyperplasia diffuse
+5	pulmonary congestion chronic cardiogenic
+2	transverse myelitis acute or subacute
+3	syphilis secondary
+1	syphilitic meningitis acute
+2	whipples_disease
+1	whipples_disease cns component
+1	ileocecal tuberculosis
+4	pulmonary congestion acute cardiogenic
+1	huntington_disease
+2	catatonia
+2	listeria meningitis
+4	carcinoma of breast
+1	relapsing polychondritis
+3	aids meningoencephalitis
+3	encephalitis acute viral
+4	carcinoma of prostate
+2	carcinoma of endometrium
+3	sinusitis acute
+1	hemobilia
+2	prolactinoma
+1	eosinophilic fasciitis
+1	craniopharyngioma
+2	psittacosis
+1	tetralogy of fallot
+3	beriberi_heart_disease alias alcohol related cardiomyopathy
+2	superior vena cava obstruction
+1	lymphomatoid granulomatosis cns component
+1	trichinella meningoencephalitis
+1	histoplasma meningitis
+4	aseptic meningitis
+1	sarcoidosis chronic systemic cns component
+1	cryptococcosis disseminated
+1	plague meningitis
+1	cat scratch meningoencephalitis
+2	schizocytic hemolytic anemia
+3	intraperitoneal abscess right lower quadrant
+1	tularemia meningitis
+1	goodpasture syndrome renal component
+4	lyme_disease
+3	lyme meningoencephalitis
+3	lyme arthritis
+1	goodpasture syndrome pulmonary component
+5	influenza
+1	typhoid fever
+2	aortic occlusion distal chronic
+3	influenza pneumonia
+1	bronchiolar-alveolar cell carcinoma
+1	bronchial carcinoid neoplasm
+2	carcinoid syndrome
+3	cerebral neoplasm single frontal
+3	cerebral neoplasm single occipital
+3	cerebral neoplasm single parietal
+3	cerebral neoplasm single temporal
+2	cutaneous t-cell lymphoma
+3	granulocytopenia idiopathic or chemical induced
+3	guillain-barre syndrome
+3	obsessive-compulsive neurosis
+2	protein-losing enteropathy
+1	pulmonary veno_occlusive_disease
+1	zollinger-ellison syndrome
+3	bronchial adenocarcinoma
+1	fat embolism
+3	intestinal giardiasis
+3	pulmonary silicosis chronic
+2	testicular seminoma
+4	brain neoplasm secondary multiple
+2	tuberculous spondylitis
+2	retroperitoneal hemorrhage
+2	cerebral lymphoma primary
+2	shigellosis
+4	bone neoplasm secondary
+2	normal pressure hydrocephalus
+2	herpes simplex encephalitis
+3	vertebral osteomyelitis non_tuberculous
+3	menieres_disease
+2	staphylococcus aureus meningitis
+2	strongyloidiasis intestinal
+1	arsenic poisoning chronic
+2	thyroid follicular carcinoma
+1	q fever acute
+1	cardiac sarcoma primary
+3	glaucoma acute angle closure
+2	perinephric abscess
+1	jejunal vascular anomaly with hemorrhage
+1	cutaneous anthrax
+3	theophylline toxicity
+1	anisakiasis
+1	ascariasis intestinal
+1	tropical sprue
+2	granuloma inguinale alias donovanosis
+2	euthyroid sick syndrome alias low t3 and low t4 syndrome
+2	varicella pneumonia
+2	familial periodic paralysis hypokalemic form
+1	pulmonary amyloidosis tracheobronchial and_or nodular parenchymal
+1	bartters syndrome
+3	salmonella enterocolitis non_typhi
+2	colorado tick fever
+1	friedreichs ataxia
+1	sporotrichosis lymphocutaneous
+1	sporotrichosis arthritis and tenosynovitis
+1	sporotrichosis systemic
+1	tabes dorsalis
+4	staphylococcal gastroenteritis alias staphylococcal food poisoning
+4	pulmonary small cell carcinoma alias oat cell carcinoma lung
+2	malignant melanoma non_ocular
+2	clostridial myonecrosis alias gas gangrene
+4	arteriosclerosis involving lower extremities
+2	spinal epidural abscess non_tuberculous
+1	chondrosarcoma skeletal of trunk and_or extremities
+3	carcinoma of cervix invasive
+2	niacin deficiency alias pellagra
+4	dental abscess periapical or periodontal
+1	streptobacillus moniliformis infection rat bite fever
+1	spirillum minus rat bite fever
+3	antidiuretic hormone inappropriate secretion syndrome alias siadh
+2	pseudotumor cerebri alias benign intracranial hypertension
+1	meckels diverticulum symptomatic
+1	hypervitaminosis d alias vitamin d intoxication
+1	mercury poisoning other than acute inhalation
+2	neurogenic osteoarthropathy alias charcot_joint_disease
+51222	viral upper respiratory infection alias common cold
