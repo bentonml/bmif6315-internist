@@ -9,6 +9,8 @@ The goal of this project is to implement a basic clinical decision support syste
 
 ### Knowledge Base:
 
+We'll use the disease list and findings table for this implementation. The disease prevalence table is not required.
+
 1. Disease Prevalence (`data/disease_prevalence.txt`)
 
 2. Disease List (10 diseases; `data/diseases.txt`)
@@ -24,24 +26,25 @@ The goal of this project is to implement a basic clinical decision support syste
   where:
 
   ```
-  1   = PPV (0 to 5 scale)
-  2   = Sensitivity (1 to 5 scale)
+  1   = PPV (0 to 5 scale) = evoking strength  (*)
+  2   = Sensitivity (1 to 5 scale) = frequency (*)
   208 = Finding number (always 3 or 4 digits)
   ALCOHOLISM CHRONIC HX = Finding name
   ```
+
+  Removed all trailing whitespace from the file before processing.
 
 3. Findings (`data/findings.txt`)
 
   ```
   MX 1021 CONJUNCTIVA AND/OR MOUTH PALLOR
-  IM 2
-  TY 3
+  1021 IM 2 TY 3
   ```
 
   where:
   ```
-  MX 1021 = Finding Number
-  CONJUNCTIVA AND/OR MOUTH PALLOR = Finding Name
-  IM =    Import (a single digit number from 1 to 5)
-  TY =   Type (TYPE IS NOT USED IN THE CURRENT EXERCISE)
+  MX 1021 / 1021 = Finding Number
+  CONJUNCTIVA AND/OR MOUTH PALLOR = Name
+  IM =   Import (1 to 5 scale)                 (*)
+  TY =   Type (not used in current exercise)
   ```
