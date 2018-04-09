@@ -1,0 +1,52 @@
+DX 616  ANISAKIASIS
+-pruritus and tingling of posterior oropharynx
+-develops one to eight hours after ingestion of raw fish → acute epigastric pain, nausea, and vomiting
+-allergic reactions. associated fever and peripheral eosinophilia
+-diagnosis: visualization of worm recovered from emesis or by endoscopy 
+ 
+DX 189  GASTRITIS GIANT HYPERTROPHIC <MENETRIERS>
+-epigastric pain, substantial weight loss, n/v, GI bleeding, diarrhea, protein-losing gastroentropathy with edema formation
+ 
+DX 192  GASTROINTESTINAL SARCOIDOSIS
+-peptic ulceration or narrowing of gastric lumen 
+-dull, burning, or cramping abdominal pain
+-n/v occur when gastric outlet obstruction is present
+-diagnosis: presence of non-necrotizing granulomas on biopsy from affected portion of the GI tract, evidence of sarcoidosis involving extraabdominal organs, negative stains and cultures from GI biopsy specimens
+ 
+DX 188  GASTRIC LYMPHOMA
+-nonspecific symptoms: epigastric pain or discomfort, anorexia, weight loss, n/v, occult GI bleeding, and/or early satiety
+-diagnosis: upper EGD with biopsy
+ 
+DX 441  PYLORIC OBSTRUCTION
+ 
+DX 352  PANCREATITIS CHRONIC
+-epigastric pain, radiating to the back, associated with nausea and vomiting
+-pain is worse 15 to 30 min after eating
+-pancreatic insufficiency (steatorrhea, glucose intolerance)
+-diagnosis: pancreatic calcifications, steatorrhea, and DM strongly suggests diagnosis
+ 
+DX 187  GASTRIC CARCINOMA
+-weight loss and persistent abdominal pain are most common symptoms at initial diagnosis
+-epigastric pain (when present)
+-presence of palpable abdominal mass is most common physical finding
+-~25% have a history of gastric ulcer
+ 
+DX 114  CHOLEDOCHOLITHIASIS
+-RUQ or epigastric pain, nausea, and vomiting
+-PDx: RUQ or epigastric tenderness
+-patients may also appear jaundiced
+-ALT/AST elevated early 
+ 
+DX 351  PANCREATITIS ACUTE
+-Severe pain in the upper abdomen
+-Nausea & Vomiting
+-Abdominal tenderness to palpation
+-Fever, tachypnea, tachycardia, hypoxemia, and hypotension
+-elevated amylase and lipase
+ 
+DX 362  PEPTIC ULCER
+-Epigastric abdominal pain: relieved with food (duodenal ulcers) or worsened by food (gastric ulcers)
+-Aspirin use
+-stomach endoscopy ulcer crater
+ 
+
