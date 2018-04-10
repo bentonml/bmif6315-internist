@@ -1,0 +1,12 @@
+def print_scores(scores):
+ for score in scores:
+  print(str(score), end = " ")
+ print("\n")
+
+scores = []
+while True:
+ num = int(input('Input a score (-99 terminates)'))
+ if num == -99:
+  break
+ scores.append(num)
+print_scores(scores)
