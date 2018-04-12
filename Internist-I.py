@@ -9,8 +9,8 @@ import sys
 import re
 import argparse
 
-arg_parser = argparse.ArgumentParser(description="Run the Internist-I algorithm.")
-arg_parser.add_argument("-i", "--infile", type=str, help='input file')
+arg_parser = argparse.ArgumentParser(description="Run the Internist-I algorithm. Runs interactively by default.")
+arg_parser.add_argument("-i", "--infile", type=str, help='input file name')
 
 # save parameters
 args = arg_parser.parse_args()
