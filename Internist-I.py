@@ -195,10 +195,9 @@ def from_file(INPUT_FILENAME, FINDINGS):
 
 def from_stdin(FINDINGS):
     PATIENT = Patient([], [])
-    print('Input manifestations (preceded by + for positive and - for negative):')
+    print('Input manifestations:\n(ex. + [ positive ] / - [ negative ] / $ to quit)\n')
     for line in sys.stdin:
         line = line.strip('\n').split()
-        print(line)
         if line[0] == '+':
             mx_idx = map_name_to_id(FINDINGS, ' '.join(line[1:]))
             PATIENT.add_positive(mx_idx)
