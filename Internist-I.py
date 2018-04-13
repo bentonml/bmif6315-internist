@@ -195,6 +195,7 @@ def from_file(INPUT_FILENAME, FINDINGS):
 
 def from_stdin(FINDINGS):
     PATIENT = Patient([], [])
+    print('Input manifestations (preceded by + for positive and - for negative):')
     for line in sys.stdin:
         line = line.strip('\n').split()
         print(line)
