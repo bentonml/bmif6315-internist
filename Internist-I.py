@@ -177,6 +177,10 @@ def map_name_to_id(findings, mx_name):
             mapped_idx = idx
     return mapped_idx
 
+def input_check():
+    print('No mapping found for finding. Check your spelling!')
+    sys.exit(1)
+
 def from_file(INPUT_FILENAME, FINDINGS):
     PATIENT = Patient([], [])
     with open(INPUT_FILENAME, 'r') as pt_file:
@@ -184,10 +188,10 @@ def from_file(INPUT_FILENAME, FINDINGS):
             line = line.strip('\n').split()
             if line[0] == '+':
                 mx_idx = map_name_to_id(FINDINGS, ' '.join(line[1:]))
-                PATIENT.add_positive(mx_idx)
+                PATIENT.add_positive(mx_idx) if mx_idx is not None else input_check()
             elif line[0] == '-':
                 mx_idx = map_name_to_id(FINDINGS, ' '.join(line[1:]))
-                PATIENT.add_negative(mx_idx)
+                PATIENT.add_negative(mx_idx) if mx_idx is not None else input_check()
             else:
                 print('Input line with error: {}'.format(' '.join(line)))
                 sys.exit(1)
@@ -200,10 +204,10 @@ def from_stdin(FINDINGS):
         line = line.strip('\n').split()
         if line[0] == '+':
             mx_idx = map_name_to_id(FINDINGS, ' '.join(line[1:]))
-            PATIENT.add_positive(mx_idx)
+            PATIENT.add_positive(mx_idx) if mx_idx is not None else input_check()
         elif line[0] == '-':
             mx_idx = map_name_to_id(FINDINGS, ' '.join(line[1:]))
-            PATIENT.add_negative(mx_idx)
+            PATIENT.add_negative(mx_idx) if mx_idx is not None else input_check()
         elif line[0] == '$':
             break
     return PATIENT
